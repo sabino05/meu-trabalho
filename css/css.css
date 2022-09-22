@@ -1,0 +1,24 @@
+.paragrafo{    
+    text-align: center;
+    border: 5px black solid;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin: 30px;
+    font-size: 25px;
+}
+.flamengo{
+    text-align: center;
+
+
+    margin-top: 15px;
+    margin: 30px;
+    font-size: 25px;
+
+}
+body{
+background-image: url(https://www.lance.com.br/files/article_main/uploads/2022/05/16/62828acfbd630.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+
+}
